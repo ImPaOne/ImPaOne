@@ -100,19 +100,24 @@
 <h2>📫 Connect With Me</h2>
 
 <p>
-  <a href="https://github.com/ImPaOne">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/ImPaOne" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/pawan-tharusha-296776355/)"/>
+  </a>
+
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/i_m__pa1/?hl=en)"/>
+  </a>
+
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img src="[https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://www.facebook.com/profile.php?id=100084614583188)"/>
   </a>
 </p>
 
 <hr/>
-
-<!-- ===================== FUN FACT ===================== -->
-<h2>⚡ Fun Fact</h2>
-
-<p>
-  I enjoy mixing <b>design</b> + <b>code</b> to create experiences that feel alive ✨  
-</p>
 
 <div align="center">
   <b>Thanks for visiting my profile! 🚀</b>
