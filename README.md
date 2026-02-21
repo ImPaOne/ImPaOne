@@ -1,5 +1,5 @@
 <!-- ===================== PROFILE README ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=200&section=header&text=Pawan%20Tharusha&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Creative%20Technologist&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=200&section=header&text=Pawan%20Tharusha&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Creative%20Technologist&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <div align="center">
   <p>
@@ -136,15 +136,25 @@
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
+  <!-- Profile view counter badge -->
+  <img src="https://komarev.com/ghpvc/?username=ImPaOne&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+  
+</div>
+<br><br>
 
+   <!-- Buy me a coffee -->
+<div align="center">
+  <a href="https://buymeacoffee.com/pawantharusha" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="180" />
+</a>
+
+ <br><br>
+  
   <b>Thanks for visiting my profile! 🚀</b><br/>
   <sub>Let's build something amazing together ✨</sub>
 
-  <!-- Profile view counter badge -->
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=ImPaOne&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
-
-</div>
+  </div>
 
 <!-- Footer Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:00d4ff&height=160&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:00d4ff&height=160&section=footer&text=©%20pawantharusha&fontSize=15&fontColor=ffffff&fontAlignY=65&animation=fadeIn&fontAlign=50" />
+
