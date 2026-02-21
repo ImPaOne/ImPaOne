@@ -9,7 +9,10 @@
     and turning ideas into <b>interactive digital products</b>.
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Front-End+Developer;UI%2FUX+Designer;Creative+Thinker;Always+Learning+🚀" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Front-End+Developer;UI%2FUX+Designer;Creative+Thinker;Always+Learning+🚀"
+    alt="Typing SVG"
+  />
 
 </div>
 
@@ -32,6 +35,7 @@
 <h2>🛠️ Technical Skills</h2>
 
 <h3>💻 Programming & Web Technologies</h3>
+
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,html,css,js,php,cs,bootstrap" />
 </p>
@@ -101,24 +105,26 @@
 
 <p>
   <a href="https://github.com/ImPaOne" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/pawan-tharusha-296776355/)"/>
+  <a href="https://www.linkedin.com/in/pawan-tharusha-296776355/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/i_m__pa1/?hl=en)"/>
+  <a href="https://www.instagram.com/i_m__pa1/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
-    <img src="[https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://www.facebook.com/profile.php?id=100084614583188)"/>
+  <a href="https://www.facebook.com/profile.php?id=100084614583188" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
 <hr/>
 
+<!-- ===================== FOOTER ===================== -->
 <div align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  <b>Thanks for visiting my profile! 🚀</b><br/>
+  <sub>Let’s build something amazing together ✨</sub>
 </div>
