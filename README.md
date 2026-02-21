@@ -1,25 +1,31 @@
 <!-- ===================== PROFILE README ===================== -->
 <div align="center">
 
+  <!-- Pixel / retro game scene banner -->
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5db3b5e2/images/footer.svg" width="100%" alt="retro gaming footer" />
+
   <h1>👋 Hi, I'm <span style="color:#00d4ff;">Pawan Tharusha</span></h1>
   <h3>🎨 Front-End Developer | UI/UX Designer | Creative Technologist</h3>
-
   <p>
     I love building <b>beautiful interfaces</b>, <b>smooth user experiences</b>,  
     and turning ideas into <b>interactive digital products</b>.
   </p>
-
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Front-End+Developer;UI%2FUX+Designer;Creative+Thinker;Always+Learning+🚀"
     alt="Typing SVG"
   />
 
-</div>
+  <!-- Retro snake contribution animation -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 
+</div>
 <hr/>
 
 <!-- ===================== ABOUT ME ===================== -->
 <h2>✨ About Me</h2>
+
+<!-- Pixel character GIF floating on the side -->
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="130" alt="coding pixel gif" />
 
 <ul>
   <li>💻 Passionate about <b>Front-End Development</b> & <b>UI/UX Design</b></li>
@@ -29,17 +35,23 @@
   <li>🤝 Open to collaboration on creative & frontend projects</li>
 </ul>
 
+<!-- Retro game divider GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="retro pixel divider" />
+</div>
+
 <hr/>
 
 <!-- ===================== SKILLS ===================== -->
 <h2>🛠️ Technical Skills</h2>
-
 <h3>💻 Programming & Web Technologies</h3>
+
+<!-- Animated coding GIF -->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coding gif" />
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,html,css,js,php,cs,bootstrap" />
 </p>
-
 <ul>
   <li>C</li>
   <li>Java</li>
@@ -49,16 +61,17 @@
   <li>C#</li>
   <li>Bootstrap</li>
 </ul>
-
 <hr/>
 
 <!-- ===================== DESIGN TOOLS ===================== -->
 <h2>🎨 UI / UX & Designing Tools</h2>
 
+<!-- Design floating GIF -->
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="160" alt="design gif" />
+
 <p>
   <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai" />
 </p>
-
 <ul>
   <li>🎯 Figma</li>
   <li>🖌 Adobe XD</li>
@@ -68,16 +81,13 @@
   <li>📐 Wireframing & Prototyping</li>
   <li>🧩 Design Systems & UI Components</li>
 </ul>
-
 <hr/>
 
 <!-- ===================== DEV TOOLS ===================== -->
 <h2>⚙️ Development Tools</h2>
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
-
 <ul>
   <li>Git & GitHub</li>
   <li>Visual Studio Code</li>
@@ -86,10 +96,19 @@
   <li>Responsive Design Testing</li>
 </ul>
 
+<!-- GitHub Stats Cards -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImPaOne&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff79c6" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ImPaOne&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=ff79c6&currStreakLabel=00d4ff" width="48%" alt="GitHub Streak" />
+</div>
+
 <hr/>
 
 <!-- ===================== WHAT I DO ===================== -->
 <h2>🚀 What I Do</h2>
+
+<!-- Retro rocket GIF -->
+<img align="right" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="140" alt="rocket gif" />
 
 <ul>
   <li>🌐 Build responsive & modern websites</li>
@@ -98,33 +117,42 @@
   <li>📱 Focus on mobile-first & accessibility</li>
 </ul>
 
+<!-- Most used languages card -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImPaOne&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff" width="40%" alt="Top Languages" />
+</div>
+
 <hr/>
 
 <!-- ===================== CONNECT ===================== -->
 <h2>📫 Connect With Me</h2>
-
 <p>
   <a href="https://github.com/ImPaOne" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/pawan-tharusha-296776355/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://www.instagram.com/i_m__pa1/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
   <a href="https://www.facebook.com/profile.php?id=100084614583188" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
-
 <hr/>
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
+
+  <!-- Retro pixel footer animation -->
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5db3b5e2/images/footer.svg" width="100%" alt="footer pixel art" />
+
   <b>Thanks for visiting my profile! 🚀</b><br/>
-  <sub>Let’s build something amazing together ✨</sub>
+  <sub>Let's build something amazing together ✨</sub>
+
+  <!-- Profile view counter badge -->
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=ImPaOne&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+
 </div>
