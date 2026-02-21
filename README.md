@@ -1,8 +1,7 @@
 <!-- ===================== PROFILE README ===================== -->
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=200&section=header&text=Pawan%20Tharusha&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Creative%20Technologist&descAlignY=58&descSize=16&animation=fadeIn" />
 
-  <h1>👋 Hi, I'm <span style="color:#00d4ff;">Pawan Tharusha</span></h1>
-  <h3>🎨 Front-End Developer | UI/UX Designer | Creative Technologist</h3>
+<div align="center">
   <p>
     I love building <b>beautiful interfaces</b>, <b>smooth user experiences</b>,  
     and turning ideas into <b>interactive digital products</b>.
@@ -37,12 +36,13 @@
 <h2>🛠️ Technical Skills</h2>
 <h3>💻 Programming & Web Technologies</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,php,cs,bootstrap" />
+</p>
+
 <!-- Animated coding GIF -->
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coding gif" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,php,cs,bootstrap" />
-</p>
 <ul>
   <li>C</li>
   <li>Java</li>
@@ -57,26 +57,30 @@
 <!-- ===================== DESIGN TOOLS ===================== -->
 <h2>🎨 UI / UX & Designing Tools</h2>
 
-<!-- Design floating GIF -->
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="160" alt="design gif" />
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai" />
+<!-- Design & Creative Tools -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,lightroom,canva" />
 </p>
+
+<!-- Design floating GIF -->
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="design gif" />
+
 <ul>
-  <li>🎯 Figma</li>
-  <li>🖌 Adobe XD</li>
-  <li>📸 Adobe Lightroom Classic (LrC)</li>
-  <li>🎨 Adobe Photoshop</li>
-  <li>✨ Canva</li>
-  <li>📐 Wireframing & Prototyping</li>
-  <li>🧩 Design Systems & UI Components</li>
+  <li>🎯 <b>Figma</b></li>
+  <li>🖌 <b>Adobe XD</b></li>
+  <li>📸 <b>Adobe Lightroom Classic (LrC)</b></li>
+  <li>🎨 <b>Adobe Photoshop</b></li>
+  <li>✨ <b>Canva</b></li>
+  <li>🪄 <b>Logo Design & Brand Identity</b></li>
+  <li>📐 <b>Wireframing & Prototyping</b></li>
+  <li>🧩 <b>Design Systems & UI Components</b></li>
 </ul>
+
 <hr/>
 
 <!-- ===================== DEV TOOLS ===================== -->
 <h2>⚙️ Development Tools</h2>
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 <ul>
@@ -113,7 +117,7 @@
 
 <!-- ===================== CONNECT ===================== -->
 <h2>📫 Connect With Me</h2>
-<p>
+<p align="center">
   <a href="https://github.com/ImPaOne" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -141,3 +145,6 @@
   <img src="https://komarev.com/ghpvc/?username=ImPaOne&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
+
+<!-- Footer Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:00d4ff&height=160&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
