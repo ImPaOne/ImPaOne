@@ -1,20 +1,14 @@
 <!-- ===================== PROFILE README ===================== -->
 <div align="center">
 
-  <!-- Pixel / retro game scene banner -->
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5db3b5e2/images/footer.svg" width="100%" alt="retro gaming footer" />
-
   <h1>👋 Hi, I'm <span style="color:#00d4ff;">Pawan Tharusha</span></h1>
   <h3>🎨 Front-End Developer | UI/UX Designer | Creative Technologist</h3>
   <p>
     I love building <b>beautiful interfaces</b>, <b>smooth user experiences</b>,  
     and turning ideas into <b>interactive digital products</b>.
   </p>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Front-End+Developer;UI%2FUX+Designer;Creative+Thinker;Always+Learning+🚀"
-    alt="Typing SVG"
-  />
-
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Front-End+Developer;UI%2FUX+Designer;Creative+Thinker;Always+Learning+%F0%9F%9A%80)
   <!-- Retro snake contribution animation -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 
@@ -23,9 +17,6 @@
 
 <!-- ===================== ABOUT ME ===================== -->
 <h2>✨ About Me</h2>
-
-<!-- Pixel character GIF floating on the side -->
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="130" alt="coding pixel gif" />
 
 <ul>
   <li>💻 Passionate about <b>Front-End Development</b> & <b>UI/UX Design</b></li>
@@ -98,7 +89,7 @@
 
 <!-- GitHub Stats Cards -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImPaOne&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff79c6" width="48%" alt="GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ImPaOne&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=ff79c6&currStreakLabel=00d4ff" width="48%" alt="GitHub Streak" />
 </div>
 
@@ -117,10 +108,6 @@
   <li>📱 Focus on mobile-first & accessibility</li>
 </ul>
 
-<!-- Most used languages card -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImPaOne&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff" width="40%" alt="Top Languages" />
-</div>
 
 <hr/>
 
@@ -145,8 +132,6 @@
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-  <!-- Retro pixel footer animation -->
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5db3b5e2/images/footer.svg" width="100%" alt="footer pixel art" />
 
   <b>Thanks for visiting my profile! 🚀</b><br/>
   <sub>Let's build something amazing together ✨</sub>
