@@ -140,7 +140,7 @@
 <div align="center">
 
   <!-- Profile view counter badge -->
-  <img src="https://komarev.com/ghpvc/?username=ImPaOne&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ImPaOne&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" alt="profile visitors" />
   
 </div>
 <br><br>
