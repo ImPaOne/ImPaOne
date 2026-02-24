@@ -8,11 +8,26 @@
   </p>
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Front-End+Developer;UI%2FUX+Designer;Creative+Thinker;Always+Learning+%F0%9F%9A%80)
+
   <!-- Retro snake contribution animation -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 
 </div>
+
+<br>
 <hr/>
+
+  <!-- Profile view counter badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ImPaOne&color=00d4ff&style=for-the-badge&label=PROFILE+VISITORS" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Account%20Age-2%20.%206 Years%20-262626?style=for-the-badge&labelColor=4a4a4a" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Let’s%20Build-Something%20Cool-3A2FA8?style=for-the-badge&labelColor=4a4a4a" />
+</p>
+
+<hr/>
+
 
 <!-- ===================== ABOUT ME ===================== -->
 <h2>✨ About Me</h2>
@@ -136,14 +151,7 @@
 </p>
 <hr/>
 
-<!-- ===================== FOOTER ===================== -->
-<div align="center">
-
-  <!-- Profile view counter badge -->
-  <img src="https://komarev.com/ghpvc/?username=ImPaOne&color=00d4ff&style=for-the-badge&label=PROFILE+VISITORS" alt="profile visitors" />
-  
-</div>
-<br><br>
+<br>
 
    <!-- Buy me a coffee -->
 <div align="center">
