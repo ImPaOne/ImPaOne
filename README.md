@@ -132,18 +132,22 @@
 <!-- ===================== CONNECT ===================== -->
 <h2>📫 Connect With Me</h2>
 <p align="center">
-  <a href="https://github.com/ImPaOne" target="_blank">
+ <a href="https://github.com/ImPaOne" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+    &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pawan-tharusha-296776355/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+   &nbsp;&nbsp;
   <a href="https://www.instagram.com/i_m__pa1/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+   &nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100084614583188" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
+   &nbsp;&nbsp;
   <a href="mailto:pawantharusha7002@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
