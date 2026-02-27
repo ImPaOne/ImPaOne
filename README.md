@@ -3,8 +3,7 @@
 
 <div align="center">
   <p>
-    I love building <b>beautiful interfaces</b>, <b>smooth user experiences</b>,  
-    and turning ideas into <b>interactive digital products</b>.
+  Craft modern interfaces, design seamless user experiences, and transform ideas into engaging digital solutions</b>
   </p>
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Front-End+Developer;UI%2FUX+Designer;Creative+Thinker;Always+Learning+%F0%9F%9A%80)
