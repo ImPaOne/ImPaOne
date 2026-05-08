@@ -1,4 +1,4 @@
-<!-- ===================== PROFILE README ===================== -->
+<!-- PROFILE README  -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=200&section=header&text=Pawan%20Tharusha&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Creative%20Technologist&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <div align="center">
