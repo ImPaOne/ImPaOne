@@ -127,7 +127,6 @@
   <li>📱 Focus on mobile-first & accessibility</li>
 </ul>
 
-
 <hr/>
 
 <!-- ===================== CONNECT ===================== -->
@@ -156,13 +155,11 @@
 <hr/>
 
 <br>
-
    <!-- Buy me a coffee -->
 <div align="center">
   <a href="https://buymeacoffee.com/pawantharusha" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="180" />
 </a>
-
  <br><br>
   
   <b>Thanks for visiting my profile! 🚀</b><br/>
