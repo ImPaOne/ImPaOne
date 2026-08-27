@@ -339,25 +339,35 @@
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 <div align="center">
   <h2>◈ GITHUB ANALYTICS</h2>
-  <p><sub>Contribution signal · activity overview</sub></p>
+  <p><sub>live metrics · cyan / violet dashboard</sub></p>
 </div>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ImPaOne&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C3AED&text_color=c9d1d9&ring_color=00D4FF" alt="GitHub stats for ImPaOne" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImPaOne&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9" alt="Top languages for ImPaOne" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=ImPaOne&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C3AED&text_color=c9d1d9&ring_color=00D4FF&border_radius=10" alt="GitHub stats for ImPaOne" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImPaOne&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&border_radius=10" alt="Top languages for ImPaOne" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=ImPaOne&theme=radical&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF" alt="GitHub streak stats for ImPaOne" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=ImPaOne&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=7C3AED&dates=8B949E&stroke=161B22" alt="GitHub streak stats for ImPaOne" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ImPaOne&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub trophies for ImPaOne" />
-</div>
+<details>
+  <summary><b>🏆 View GitHub trophies</b></summary>
+  <br/>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ImPaOne&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="GitHub trophies for ImPaOne" />
+  </div>
+</details>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Gradient divider line" />
@@ -384,28 +394,30 @@
 <!-- ===================== TERMINAL ===================== -->
 <div align="center">
   <h2>◈ TERMINAL</h2>
-  <p><sub>quick identity dump</sub></p>
+  <p><sub>session active · identity@ImPaOne</sub></p>
 </div>
 
 ```bash
-┌──[ pawan@github ]─[ ~/portfolio ]
-│
-├─ $ whoami
-│    Pawan Tharusha
-│
-├─ $ cat ./role.txt
-│    Front-End Developer · UI/UX Designer · Creative Technologist
-│
-├─ $ focus --current
-│    UI/UX + Web Development
-│
-├─ $ status
-│    Building creative digital experiences...
-│
-├─ $ echo $NEXT
-│    Create something amazing
-│
-└─ $ _
+╭─ ● ● ● ──────────────────────────────── pawan@github ─ ~/portfolio ─╮
+│                                                                     │
+│  $ whoami                                                           │
+│  › Pawan Tharusha                                                   │
+│                                                                     │
+│  $ cat role.md                                                      │
+│  › Front-End Developer · UI/UX Designer · Creative Technologist     │
+│                                                                     │
+│  $ ./focus --current                                                │
+│  › UI/UX + Web Development                                          │
+│                                                                     │
+│  $ status --live                                                    │
+│  › ● online · building creative digital experiences                 │
+│                                                                     │
+│  $ echo $NEXT                                                       │
+│  › Create something amazing                                         │
+│                                                                     │
+│  $ _█                                                               │
+│                                                                     │
+╰─────────────────────────────────────────────── session: active ─────╯
 ```
 
 <p align="center">
