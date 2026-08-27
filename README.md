@@ -1,172 +1,175 @@
-<!-- PROFILE README  -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=200&section=header&text=Pawan%20Tharusha&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Creative%20Technologist&descAlignY=58&descSize=16&animation=fadeIn" />
+<!--
+  ============================================================
+  PAWAN THARUSHA — GitHub Profile Portfolio
+  Visual identity: #0D1117 · #00D4FF · #7C3AED
+  Username: ImPaOne
+  ============================================================
+-->
+
+<!-- ===================== HERO ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7c3aed,100:00d4ff&height=220&section=header&text=PAWAN%20THARUSHA&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Front-End%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20Creative%20Technologist&descAlignY=55&descSize=15&animation=fadeIn" alt="Pawan Tharusha — Front-End Developer, UI/UX Designer, Creative Technologist" />
 
 <div align="center">
-  <p>
-  Craft modern interfaces, design seamless user experiences, and transform ideas into engaging digital solutions</b>
-  </p>
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Front-End+Developer;UI%2FUX+Designer;Creative+Thinker;Always+Learning+%F0%9F%9A%80)
 
-  <!-- Retro snake contribution animation -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&width=620&height=40&lines=Crafting+modern+interfaces;Designing+seamless+experiences;Turning+ideas+into+digital+products;Always+learning.+Always+building." alt="Animated typing tagline" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/ImPaOne-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" alt="GitHub identity ImPaOne" />
+  <img src="https://img.shields.io/badge/Front--End-00D4FF?style=for-the-badge&logoColor=0D1117" alt="Front-End" />
+  <img src="https://img.shields.io/badge/UI%2FUX-7C3AED?style=for-the-badge&logoColor=white" alt="UI/UX" />
+  <img src="https://img.shields.io/badge/Creative-Technologist-262626?style=for-the-badge&labelColor=4a4a4a" alt="Creative Technologist" />
+
+  <br/><br/>
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,bootstrap,git" alt="Core technology badges: HTML, CSS, JavaScript, Figma, Bootstrap, Git" />
 
 </div>
 
-<br>
-<hr/>
+<br/>
 
-  <!-- Profile view counter badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ImPaOne&color=00d4ff&style=for-the-badge&label=PROFILE+VISITORS" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Account%20Age-2%20.%206 Years%20-262626?style=for-the-badge&labelColor=4a4a4a" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Let’s%20Build-Something%20Cool-3A2FA8?style=for-the-badge&labelColor=4a4a4a" />
+  <img src="https://komarev.com/ghpvc/?username=ImPaOne&color=00d4ff&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile visitor count" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Let’s%20Build-Something%20Cool-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Let's build something cool" />
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Gradient divider line" />
+</p>
 
-
-<!-- ===================== ABOUT ME ===================== -->
-<h2>✨ About Me</h2>
-
-<ul>
-  <li>💻 Passionate about <b>Front-End Development</b> & <b>UI/UX Design</b></li>
-  <li>🎨 Love creating clean, modern & user-friendly interfaces</li>
-  <li>🚀 Always exploring new web technologies & design trends</li>
-  <li>🧠 Strong interest in <b>Design Systems</b> & <b>User Experience</b></li>
-  <li>🤝 Open to collaboration on creative & frontend projects</li>
-</ul>
-
-<!-- Retro game divider GIF -->
+<!-- ===================== DEVELOPER STATUS ===================== -->
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="retro pixel divider" />
+  <h2>⚡ SYSTEM STATUS</h2>
+  <p><sub>Developer dashboard · live identity panel</sub></p>
 </div>
 
-<hr/>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/STATUS-ONLINE-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Status: Online" /><br/><br/>
+      <b>ROLE</b><br/>
+      <code>FRONT-END DEVELOPER</code>
+    </td>
+    <td align="center" width="34%">
+      <img src="https://img.shields.io/badge/MODE-ALWAYS%20LEARNING-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Mode: Always Learning" /><br/><br/>
+      <b>FOCUS</b><br/>
+      <code>UI/UX + WEB DEVELOPMENT</code>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/SIGNAL-CREATIVE-262626?style=for-the-badge&labelColor=0D1117&color=00D4FF" alt="Signal: Creative" /><br/><br/>
+      <b>BUILDING</b><br/>
+      <code>CREATIVE DIGITAL EXPERIENCES</code>
+    </td>
+  </tr>
+</table>
 
-<!-- ===================== SKILLS ===================== -->
-<h2>🛠️ Technical Skills</h2>
-<h3>💻 Programming & Web Technologies</h3>
+<br/>
+
+<pre align="center">
+┌──────────────────────────────────────────────────────────┐
+│  ◉  pawan.system  ·  identity=@ImPaOne  ·  v1.0         │
+│──────────────────────────────────────────────────────────│
+│  STATUS     ▸  ONLINE                                    │
+│  ROLE       ▸  Front-End Developer                       │
+│  SPECIALTY  ▸  UI/UX Design × Interface Engineering      │
+│  MODE       ▸  Always Learning                           │
+│  OUTPUT     ▸  Modern · Clean · User-centered            │
+└──────────────────────────────────────────────────────────┘
+</pre>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,php,cs,bootstrap" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Gradient divider line" />
 </p>
 
-<!-- Animated coding GIF -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coding gif" />
-
-<ul>
-  <li>C</li>
-  <li>Java</li>
-  <li>HTML5 & CSS3</li>
-  <li>JavaScript</li>
-  <li>PHP</li>
-  <li>C#</li>
-  <li>Bootstrap</li>
-</ul>
-<hr/>
-
-<!-- ===================== DESIGN TOOLS ===================== -->
-<h2>🎨 UI / UX & Designing Tools</h2>
-
-<!-- Design & Creative Tools -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,lightroom,canva" />
-</p>
-
-<!-- Design floating GIF -->
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="design gif" />
-
-<ul>
-  <li>🎯 <b>Figma</b></li>
-  <li>🖌 <b>Adobe XD</b></li>
-  <li>📸 <b>Adobe Lightroom Classic (LrC)</b></li>
-  <li>🎨 <b>Adobe Photoshop</b></li>
-  <li>✨ <b>Canva</b></li>
-  <li>🪄 <b>Logo Design & Brand Identity</b></li>
-  <li>📐 <b>Wireframing & Prototyping</b></li>
-  <li>🧩 <b>Design Systems & UI Components</b></li>
-</ul>
-
-<hr/>
-
-<!-- ===================== DEV TOOLS ===================== -->
-<h2>⚙️ Development Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-</p>
-<ul>
-  <li>Git & GitHub</li>
-  <li>Visual Studio Code</li>
-  <li>IntelliJ IDEA</li>
-  <li>Chrome DevTools</li>
-  <li>Responsive Design Testing</li>
-</ul>
-
-<!-- GitHub Stats Cards -->
+<!-- ===================== ABOUT ===================== -->
 <div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ImPaOne&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=ff79c6&currStreakLabel=00d4ff" width="48%" alt="GitHub Streak" />
+  <h2>◈ WHO I AM</h2>
+  <p><sub>Designer mindset · developer craft</sub></p>
 </div>
 
-<hr/>
-
-
-<!-- ===================== WHAT I DO ===================== -->
-<h2>🚀 What I Do</h2>
-
-<!-- Retro rocket GIF -->
-<img align="right" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="140" alt="rocket gif" />
-
-<ul>
-  <li>🌐 Build responsive & modern websites</li>
-  <li>🎨 Design intuitive UI & smooth UX flows</li>
-  <li>⚡ Convert designs into pixel-perfect code</li>
-  <li>📱 Focus on mobile-first & accessibility</li>
-</ul>
-
-<hr/>
-
-<!-- ===================== CONNECT ===================== -->
-<h2>📫 Connect With Me</h2>
 <p align="center">
- <a href="https://github.com/ImPaOne" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-    &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pawan-tharusha-296776355/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/i_m__pa1/?hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100084614583188" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-   &nbsp;&nbsp;
-  <a href="mailto:pawantharusha7002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  I’m <b>Pawan Tharusha</b> — a Front-End Developer and UI/UX Designer who treats every interface as both a product and an experience.<br/>
+  I care about clarity, visual rhythm, and the small details that make digital products feel intentional.
 </p>
-<hr/>
 
-<br>
-   <!-- Buy me a coffee -->
+<p align="center">
+  <i>“Design tells the story. Code makes it real.”</i>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">🎨 <b>Design Systems</b><br/><sub>Structure & consistency</sub></td>
+    <td align="center">💻 <b>Front-End Craft</b><br/><sub>Clean, responsive UI</sub></td>
+    <td align="center">🧠 <b>UX Thinking</b><br/><sub>Flows that feel natural</sub></td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>More about me</b></summary>
+  <br/>
+  <ul>
+    <li>Passionate about Front-End Development and UI/UX Design</li>
+    <li>Love creating clean, modern, user-friendly interfaces</li>
+    <li>Always exploring new web technologies and design trends</li>
+    <li>Strong interest in Design Systems and User Experience</li>
+    <li>Open to collaboration on creative and frontend projects</li>
+  </ul>
+</details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Gradient divider line" />
+</p>
+
+<!-- ===================== WHAT I BUILD ===================== -->
 <div align="center">
-  <a href="https://buymeacoffee.com/pawantharusha" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="180" />
-</a>
- <br><br>
-  
-  <b>Thanks for visiting my profile! 🚀</b><br/>
-  <sub>Let's build something amazing together ✨</sub>
+  <h2>◈ WHAT I BUILD</h2>
+  <p><sub>Products at the intersection of design and code</sub></p>
+</div>
 
-  </div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Web Experiences</h3>
+      Responsive, modern websites with polished visual hierarchy and clear interaction patterns.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 UI/UX Experiences</h3>
+      Intuitive flows, wireframes, and prototypes designed for real users — not just aesthetics.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Responsive Interfaces</h3>
+      Mobile-first layouts that stay sharp across screens, with accessibility in mind.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 Design Systems</h3>
+      Reusable components and visual rules that keep products consistent as they scale.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Creative Digital Products</h3>
+      Interfaces that balance brand personality with usability and performance.
+    </td>
+    <td width="50%" valign="top">
+      <h3>💡 Experimental Ideas</h3>
+      Small creative experiments that push layout, motion, and interaction further.
+    </td>
+  </tr>
+</table>
 
-<!-- Footer Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:00d4ff&height=160&section=footer&text=©%20pawantharusha&fontSize=15&fontColor=ffffff&fontAlignY=65&animation=fadeIn&fontAlign=50" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Gradient divider line" />
+</p>
 
+<!-- ===================== DESIGN × ENGINEERING ===================== -->
+<div align="center">
+  <h2>◈ DESIGN × ENGINEERING</h2>
+  <p><sub>One workflow. Two disciplines. Zero disconnect.</sub></p>
+</div>
+
+```text
+  DESIGN  →  PROTOTYPE  →  DEVELOP  →  TEST  →  REFINE  →  SHIP
+    🎨          📐           💻         🧪        ✨        🚀
